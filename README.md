@@ -155,4 +155,3 @@ node email.js    # Start email server
 
 ---
 
-Would you like me to also add **backend URL auto-switching** (localhost vs Render) in `src/services/emailService.ts` so you don’t have to manually change it during deployment?
